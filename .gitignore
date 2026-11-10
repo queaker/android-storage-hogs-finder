@@ -1,0 +1,9 @@
+# Generated reports contain file names from the scanned phone - keep them local
+storage_report*.html
+storage_report*.json
+report*.html
+report*.json
+
+__pycache__/
+*.pyc
+.DS_Store
